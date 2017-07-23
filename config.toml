@@ -1,7 +1,7 @@
 baseurl = "/"
 relativeurls = true
 languageCode = "en-us"
-title = "A Hugo website"
+title = "Noreast'R Conference - Summer 2018 - Providence, RI"
 theme = "minimal"
 googleAnalytics = ""
 disqusShortname = ""
@@ -14,14 +14,18 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     name = "About"
     url = "/about/"
 [[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/rstudio/blogdown"
+    name = "Keynote"
+    url = "/keynote/
 [[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/rstudio"
+    name = "Schedule"
+    url = "/schedule/"
+[[menu.main]]
+    name = "Code of Conduct"
+    url = "/codeofconduct/"
+    
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    description = "A regional #rstats conference for the Northeastern United States"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.11.0"

@@ -1,6 +1,7 @@
 ---
 title: "About"
-date: "2016-05-05T21:48:51-07:00"
+date: "2017-07-24"
 ---
 
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium-theme).
+Born on Twitter, the Noreast'R Conference is a grass roots effort to organize a 
+regional #rstats conference in the Northeastern United States.

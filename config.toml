@@ -1,7 +1,7 @@
 baseurl = "/"
 relativeurls = true
 languageCode = "en-us"
-title = "Noreast'R Conference - Summer 2018 - Providence, RI"
+title = "Noreast\'R Conference - Summer 2018 - Providence, RI"
 theme = "minimal"
 googleAnalytics = ""
 disqusShortname = ""

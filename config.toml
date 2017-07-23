@@ -1,7 +1,7 @@
 baseurl = "/"
 relativeurls = true
 languageCode = "en-us"
-title = "NoreastR Conference"
+title = "Noreast'R Conference"
 theme = "minimal"
 googleAnalytics = ""
 disqusShortname = ""
@@ -15,17 +15,32 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     url = "/about/"
 [[menu.main]]
     name = "Keynote"
-    url = "/keynote/
+    url = "/keynote/"
 [[menu.main]]
     name = "Schedule"
     url = "/schedule/"
 [[menu.main]]
     name = "Code of Conduct"
     url = "/codeofconduct/"
+
+[[menu.icon]]
+    url = "mailto:info@noreastrconf.com"
+    name = "envelope-o"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://github.com/noreastrconf/"
+    name = "github"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://twitter.com/noreastrconf/"
+    name = "twitter"
+    weight = 3
     
 
 [params]
-    description = "A regional R conference for the Northeastern United States"
+    description = "A one day #rstats conference - Summer, 2018 - Providence, RI."
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.11.0"

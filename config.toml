@@ -1,7 +1,7 @@
 baseurl = "/"
 relativeurls = true
 languageCode = "en-us"
-title = "NoreastR Conference - Summer 2018 - Providence, RI"
+title = "NoreastR Conference"
 theme = "minimal"
 googleAnalytics = ""
 disqusShortname = ""
@@ -25,7 +25,7 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     
 
 [params]
-    description = "A regional #rstats conference for the Northeastern United States"
+    description = "A regional R conference for the Northeastern United States"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.11.0"

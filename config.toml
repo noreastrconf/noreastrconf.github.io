@@ -11,11 +11,11 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
+    name="Home"
+    url="/"
+[[menu.main]]
     name = "About"
     url = "/about/"
-[[menu.main]]
-    name = "Keynote"
-    url = "/keynote/"
 [[menu.main]]
     name = "Schedule"
     url = "/schedule/"
@@ -40,7 +40,7 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     
 
 [params]
-    description = "A one day #rstats conference - Summer, 2018 - Providence, RI."
+    description = "A one day #rstats conference - Friday, October 26, 2018 - Providence, RI."
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.11.0"

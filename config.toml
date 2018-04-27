@@ -13,15 +13,19 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 [[menu.main]]
     name="Home"
     url="/"
+    weight = 1
 [[menu.main]]
     name = "About"
     url = "/about/"
+    weight = 2
 [[menu.main]]
     name = "Schedule"
     url = "/schedule/"
+    weight = 3
 [[menu.main]]
     name = "Code of Conduct"
     url = "/codeofconduct/"
+    weight = 4
 
 [[menu.icon]]
     url = "mailto:info@noreastrconf.com"

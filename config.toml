@@ -56,7 +56,7 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     MathJaxVersion = "2.7.1"
 
     [params.logo]
-    url = "logo.png"
+    url = "https://github.com/noreastrconf/hex_logo/blob/master/Noreast'R(viridis).png?raw=true"
     width = 50
     height = 50
     alt = "Logo"

@@ -26,7 +26,7 @@ main {
 
 .intro {
     margin: 25vh 0;
-    background-image: url(https://res.cloudinary.com/simpleview/image/upload/c_fill,f_auto,h_709,q_60…ients/rhodeisland/140_3_2825_jpeg_bad9cf96-df10-4a30-a2d1-ca4c1f8a518d.jpg);
+    background-image: url("https://res.cloudinary.com/simpleview/image/upload/c_fill,f_auto,h_709,q_60…ients/rhodeisland/140_3_2825_jpeg_bad9cf96-df10-4a30-a2d1-ca4c1f8a518d.jpg");
 }
 
 .intro > h1 {

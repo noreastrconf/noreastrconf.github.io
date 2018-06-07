@@ -3,8 +3,6 @@ title: "About"
 date: "2017-07-24"
 ---
 
-![]()
-
 <p align="center">
   <img src="https://github.com/noreastrconf/hex_logo/blob/master/Noreast'R.png?raw=true">
 </p>

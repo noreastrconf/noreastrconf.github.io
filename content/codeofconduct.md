@@ -14,7 +14,7 @@ All attendees, speakers, sponsors and volunteers at Noreast'R Conference are req
 
 We do not tolerate harassment of Noreast'R Conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, conference events, Twitter and other online media.
 
-Participants engaging in harassing behavior may be sanctioned in any way organizers deem appropriate. Participants may be given a formally warning to stop the behaviour and expelled if they continue or immediately expelled from the conference without refund and their details will be forwarded to partner institutions and events. Additionally if the harassing behaviour is part of a sponsor display or a talk the display will be removed or the talk stopped as well the other responses listed above.
+Participants engaging in harassing behavior may be sanctioned in any way organizers deem appropriate. Participants may be given a formal warning to stop the behaviour and expelled if they continue or immediately expelled from the conference without refund and their details will be forwarded to partner institutions and events. Additionally if the harassing behaviour is part of a sponsor display or a talk the display will be removed or the talk stopped as well the other responses listed above.
 
 Noreast'R Conference attendants agree to:
 

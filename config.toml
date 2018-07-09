@@ -8,6 +8,7 @@ disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 backgroundImage = "https://github.com/noreastrconf/noreastrconf.github.io/blob/master/content/ri-coast.jpg?raw=true"
 coverImage = "https://github.com/noreastrconf/noreastrconf.github.io/blob/master/content/ri-coast.jpg?raw=true"
+profilePic = "https://github.com/noreastrconf/noreastrconf.github.io/blob/master/content/ri-coast.jpg?raw=true"
 
 
 [permalinks]

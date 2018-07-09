@@ -3,6 +3,7 @@
 <main>
 
     <div class="intro">
+        {{ with .Site.Params.profilePic }} <img class="profile" src="{{ . }}"> {{ end }}
 
         <h1>{{ .Site.Title }}</h1>
 

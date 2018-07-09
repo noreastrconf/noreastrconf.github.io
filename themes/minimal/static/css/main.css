@@ -25,7 +25,7 @@ main {
 /*home page*/
 
 .intro {
-    margin: 25vh 0;
+    transform: translateY(22vh);
 }
 
 .intro > h1 {
@@ -38,6 +38,12 @@ main {
     font-size: 3vmin;
 }
 
+/*adds profile image to home page*/
+.intro > .profile {
+    width: 10vh;
+    height: 10vh;
+    border-radius: 50%;
+}
 
 /*apply accent colour to links*/
 

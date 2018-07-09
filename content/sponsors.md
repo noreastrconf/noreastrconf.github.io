@@ -1,4 +1,3 @@
-
 ---
 title: "Sponsors"
 date: "2017-07-24"

@@ -29,6 +29,15 @@ backgroundImage = "https://github.com/noreastrconf/noreastrconf.github.io/blob/m
     url = "/codeofconduct/"
     weight = 4
 
+
+
+
+
+[[menu.main]]
+    name = "Venue"
+    url = "/venue/"
+    weight = 6
+
 [[menu.icon]]
     url = "mailto:info@noreastrconf.com"
     name = "envelope-o"

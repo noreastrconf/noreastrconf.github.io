@@ -32,11 +32,6 @@ backgroundImage = "https://github.com/noreastrconf/noreastrconf.github.io/blob/m
     name = "Sponsors"
     url = "/sponsors/"
     weight = 5
-
-
-
-
-
 [[menu.main]]
     name = "Venue"
     url = "/venue/"

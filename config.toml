@@ -28,6 +28,10 @@ backgroundImage = "https://github.com/noreastrconf/noreastrconf.github.io/blob/m
     name = "Code of Conduct"
     url = "/codeofconduct/"
     weight = 4
+[[menu.main]]
+    name = "Sponsors"
+    url = "/sponsors/"
+    weight = 5
 
 [[menu.icon]]
     url = "mailto:info@noreastrconf.com"

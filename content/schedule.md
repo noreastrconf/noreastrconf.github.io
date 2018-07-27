@@ -13,14 +13,14 @@ title: "Schedule"
 |10:15am-10:45am|BREAK||
 |10:50am-11:10am|TBD|Bob Rudis, Rapid7|
 |11:15am-11:35am|TBD|Noam Ross, EcoHealth Alliance|
-|11:40am-12:00pm|TBD|Simon Urbanek, AT&T Labs|
+|11:40am-12:00pm|TBD|Simon Urbanek, R Core Team and AT&T Labs|
 |12:00pm-1:30pm|LUNCH||
-|1:30pm-1:50pm|Increasing adoption of R for SAS Users in the Health Field|Monika Wahi, Vasanta Health Science|
+|1:30pm-1:50pm|Increasing adoption of R for SAS Users in the Health Field|Monika Wahi, Dethwench Professional Services|
 |1:55pm-2:15pm|Exposed in Connecticut|Mike Kane, Yale University|
-|2:20pm-2:40pm|Bioconductor for non-biologists|Lori Shepherd|
+|2:20pm-2:40pm|Bioconductor for non-biologists|Lori Shepherd,  Bioconductor Core Team and Roswell Park Cancer Institute|
 |2:45pm-3:15pm|BREAK||
-|3:20pm-3:40pm|A/B testing at DataCamp|Emily Robinson, Data Camp|
-|3:45pm-4:05pm|TBD|JD Long|
+|3:20pm-3:40pm|Building and A/B testing System|Emily Robinson, DataCamp|
+|3:45pm-4:05pm|TBD|JD Long, RenaissanceRe|
 |4:10pm-4:30pm|How I Found your Answer|Mara Averick, RStudio|
-|4:35pm-4:45pm|Closing Remarks|Noreast'r Committee|
+|4:35pm-4:45pm|Closing Remarks|Noreast'R Committee|
 |5:00pm-6:30pm|Social||

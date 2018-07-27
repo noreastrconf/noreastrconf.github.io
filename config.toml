@@ -38,7 +38,7 @@ backgroundImage = "https://github.com/noreastrconf/noreastrconf.github.io/blob/m
     weight = 6
 
 [[menu.icon]]
-    url = "mailto:info@noreastrconf.com"
+    url = "mailto:noreastrconf@gmail.com"
     name = "envelope-o"
     weight = 1
 

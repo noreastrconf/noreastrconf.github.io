@@ -89,3 +89,20 @@ a:hover {
 footer {
     border-bottom: var(--border-width) solid var(--accent);
 }
+
+/* some custom stuff - jwh */
+tr:nth-child(even) {
+  background: #eee;
+}
+
+thead {
+  background: #eee;
+}
+
+td:nth-child(1) {
+  width: 1px;
+}
+
+td:nth-child(1n+0) {
+  padding-right: 10px;
+}

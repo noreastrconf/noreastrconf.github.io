@@ -104,5 +104,5 @@ td:nth-child(1) {
 }
 
 td:nth-child(1n+0) {
-  padding-right: 5px;
+  padding-right: 10px;
 }

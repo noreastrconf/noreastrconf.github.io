@@ -5,7 +5,7 @@ title: "Schedule"
 *note:* This schedule is subject to change as we work out the details
 
 |Time|Title|Speaker|
-|:----|:-------|-----:|
+|----|-------|-----|
 |8:00am - 9:00am|Registration||
 |9:15am - 9:25am|Welcome Stuff||
 |9:30am - 9:50am|Using Shiny|Tanya Cashorali, TCB Analytics|

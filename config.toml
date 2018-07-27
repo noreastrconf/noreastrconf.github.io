@@ -36,6 +36,10 @@ backgroundImage = "https://github.com/noreastrconf/noreastrconf.github.io/blob/m
     name = "Venue"
     url = "/venue/"
     weight = 6
+[[menu.main]]
+    name = "Registration (Coming Soon)"
+    url = "/"
+    weight = 7
 
 [[menu.icon]]
     url = "mailto:noreastrconf@gmail.com"

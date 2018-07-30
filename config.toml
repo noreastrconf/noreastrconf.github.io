@@ -1,7 +1,7 @@
 baseurl = "/"
 relativeurls = true
 languageCode = "en-us"
-title = "Noreast'R Conference"
+title = "Nor'eastR Conference"
 theme = "minimal"
 googleAnalytics = ""
 disqusShortname = ""

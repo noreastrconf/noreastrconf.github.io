@@ -19,7 +19,7 @@ title: "Schedule"
 |1:55pm-2:15pm|Exposed in Connecticut|Mike Kane, Yale University|
 |2:20pm-2:40pm|Bioconductor for non-biologists|Lori Shepherd,  Bioconductor Core Team and Roswell Park Cancer Institute|
 |2:40pm-3:10pm|BREAK||
-|3:10pm-3:30pm|Building and A/B testing System|Emily Robinson, DataCamp|
+|3:10pm-3:30pm|Building an A/B Testing System|Emily Robinson, DataCamp|
 |3:35pm-3:55pm|TBD|JD Long, RenaissanceRe|
 |4:00pm-4:20pm|How I Found your Answer|Mara Averick, RStudio|
 |4:25pm-4:35pm|Closing Remarks|Noreast'R Committee|

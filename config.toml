@@ -37,8 +37,8 @@ backgroundImage = "https://github.com/noreastrconf/noreastrconf.github.io/blob/m
     url = "/venue/"
     weight = 6
 [[menu.main]]
-    name = "Registration (Coming Soon)"
-    url = "/"
+    name = "Registration (Live!)"
+    url = "https://www.regonline.com/noreastr"
     weight = 7
 
 [[menu.icon]]

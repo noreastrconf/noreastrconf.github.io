@@ -21,6 +21,7 @@ title: "Schedule"
 |2:40pm-3:10pm|BREAK||
 |3:10pm-3:30pm|Building an A/B Testing System|Emily Robinson, DataCamp|
 |3:35pm-3:55pm|Things I Learned About Corporate Reporting|JD Long, RenaissanceRe|
-|4:00pm-4:20pm|How I Found your Answer|Mara Averick, RStudio|
-|4:25pm-4:35pm|Closing Remarks|Nor'eastR Committee|
-|5:00pm-6:30pm|Social||
+|4:00pm-4:20pm|Minecraft, R, and Containers|David Smith, Microsoft|
+|4:25pm-4:45pm|How I Found your Answer|Mara Averick, RStudio|
+|4:50pm-5:00pm|Closing Remarks|Nor'eastR Committee|
+|5:30pm-7:30pm|Social||

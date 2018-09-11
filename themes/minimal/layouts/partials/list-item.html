@@ -2,7 +2,7 @@
 
     {{ if eq .Type "post" }}
 
-        <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+        <h4>{{ .Title }}</h4>
 
         <h5>{{ .Date.Format (.Site.Params.dateFormat | default "January 2, 2006") }}</h5>
 

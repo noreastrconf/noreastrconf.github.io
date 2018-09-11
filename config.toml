@@ -74,4 +74,24 @@ backgroundImage = "https://github.com/noreastrconf/noreastrconf.github.io/blob/m
     width = 50
     height = 50
     alt = "Logo"
+    
+    [[params.sponsors]]
+        name = "Microsoft Cloud Advocates"
+        logo = "/BitDevAdvocateFlat.png"
+        url = "https://developer.microsoft.com/en-us/advocates/index.html"
+        twitter = "azureadvocates"
+        level = "silver"
+        
+    [[params.sponsors]]
+        name = "Coastal Institute"
+        logo = "/ci_logo_from_web.jpg"
+        url = "https://ci.uri.edu"
+        twitter = "uri_coastalinst"
+        level = ""
+    
+
+    
+    
+
+
 

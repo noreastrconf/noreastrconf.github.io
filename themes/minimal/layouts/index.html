@@ -7,7 +7,14 @@
         <h1>{{ .Site.Title }}</h1>
 
         <h2>{{ .Site.Params.Description }}</h2>
-
+    </div>
+    <div>
+      <h3>Conference Sponsors:</h3>
+      {{ if .Site.Params.sponsors }}
+          {{ range sort .Site.Params.sponsors }}
+            <a href=" {{ .url }}"><img src="{{ .logo }}" style="width:50px; padding: 10px;"></img></a>
+          {{ end }}
+      {{ end }}
     </div>
 
 </main>

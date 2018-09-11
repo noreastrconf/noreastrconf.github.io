@@ -12,9 +12,8 @@ title: "Schedule"
 |9:55am-10:15am|Something else Shiny|Jasmine Dumas, Fastly|
 |10:15am-10:50am|BREAK||
 |10:50am-11:10am|TBD|Bob Rudis, Rapid7|
-|11:15am-11:35am|Bats and GAMs|Noam Ross, EcoHealth Alliance|
-|11:40am-12:00pm|TBD|Simon Urbanek, R Core Team and AT&T Labs|
-|12:00pm-1:30pm|LUNCH||
+|11:15am-11:35pm|TBD|Simon Urbanek, R Core Team and AT&T Labs|
+|11:35pm-1:30pm|LUNCH||
 |1:30pm-1:50pm|Increasing adoption of R for SAS Users in the Health Field|Monika Wahi, Dethwench Professional Services|
 |1:55pm-2:15pm|Exposed in Connecticut|Mike Kane, Yale University|
 |2:20pm-2:40pm|Bioconductor for non-biologists|Lori Shepherd,  Bioconductor Core Team and Roswell Park Cancer Institute|

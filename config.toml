@@ -76,7 +76,7 @@ backgroundImage = "https://github.com/noreastrconf/noreastrconf.github.io/blob/m
     alt = "Logo"
     
     [[params.sponsors]]
-        name = "Microsoft Cloud Advocates"
+        name = "Microsoft Azure"
         logo = "/MS-Azure_logo_horiz_c-gray_rgb.png"
         url = "https://developer.microsoft.com/en-us/advocates/index.html"
         twitter = "azureadvocates"
@@ -97,7 +97,7 @@ backgroundImage = "https://github.com/noreastrconf/noreastrconf.github.io/blob/m
         url = "https://ci.uri.edu"
         twitter = "uri_coastalinst"
         level = "host"
-        width = 125
+        width = 100
     
 
     

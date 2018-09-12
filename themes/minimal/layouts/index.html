@@ -12,11 +12,11 @@
       {{ if .Site.Params.sponsors }}
         {{ range sort .Site.Params.sponsors }}
           {{ if eq .level "host" }}
-            <h3>Conference Host:</h3>
+            <h4>Conference Host:</h4>
             <a href=" {{ .url }}"><img src="{{ .logo }}" style="width:{{ .width }}px; padding: 10px;"></img></a>
           {{ end }}
         {{ end }}
-        <h3>Conference Sponsors:</h3>
+        <h4>Conference Sponsors:</h4>
         {{ range sort .Site.Params.sponsors }}
           {{ if ne .level "host" }}
             <a href=" {{ .url }}"><img src="{{ .logo }}" style="width:{{ .width }}px; padding: 10px;"></img></a>

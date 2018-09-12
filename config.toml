@@ -83,17 +83,17 @@ backgroundImage = "https://github.com/noreastrconf/noreastrconf.github.io/blob/m
         level = "silver"
         
     [[params.sponsors]]
-        name = "Coastal Institute"
-        logo = "/ci_logo_from_web.jpg"
-        url = "https://ci.uri.edu"
-        twitter = "uri_coastalinst"
-        level = ""
-        
-    [[params.sponsors]]
         name = "Manning Publications"
         logo = "/Manninglogo_outline.png"
         url = "https://www.manning.com/"
         twitter = "ManningBooks"
+        level = ""
+    
+    [[params.host]]
+        name = "Coastal Institute"
+        logo = "/ci_logo_from_web.jpg"
+        url = "https://ci.uri.edu"
+        twitter = "uri_coastalinst"
         level = ""
     
 

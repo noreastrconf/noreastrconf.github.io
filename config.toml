@@ -77,10 +77,11 @@ backgroundImage = "https://github.com/noreastrconf/noreastrconf.github.io/blob/m
     
     [[params.sponsors]]
         name = "Microsoft Cloud Advocates"
-        logo = "/BitDevAdvocateFlat.png"
+        logo = "/MS-Azure_logo_horiz_c-gray_rgb.png"
         url = "https://developer.microsoft.com/en-us/advocates/index.html"
         twitter = "azureadvocates"
         level = "silver"
+        width = 225
         
     [[params.sponsors]]
         name = "Manning Publications"
@@ -88,13 +89,15 @@ backgroundImage = "https://github.com/noreastrconf/noreastrconf.github.io/blob/m
         url = "https://www.manning.com/"
         twitter = "ManningBooks"
         level = ""
+        width = 150
     
-    [[params.host]]
+    [[params.sponsors]]
         name = "Coastal Institute"
         logo = "/ci_logo_from_web.jpg"
         url = "https://ci.uri.edu"
         twitter = "uri_coastalinst"
-        level = ""
+        level = "host"
+        width = 125
     
 
     

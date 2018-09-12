@@ -9,15 +9,19 @@
         <h2>{{ .Site.Params.Description }}</h2>
     </div>
     <div>
-      {{ if .Site.Params.host }}
-        <h3>Conference Host:</h3>
-        <a href=" {{ .Site.Params.host.url }}"><img src="{{ .Site.Params.host.logo }}" style="width:150px; padding: 10px;"></img></a>
-      {{ end }}
       {{ if .Site.Params.sponsors }}
-        <h3>Conference Sponsors:</h3>
-          {{ range sort .Site.Params.sponsors }}
-            <a href=" {{ .url }}"><img src="{{ .logo }}" style="width:150px; padding: 10px;"></img></a>
+        {{ range sort .Site.Params.sponsors }}
+          {{ if eq .level "host" }}
+            <h3>Conference Host:</h3>
+            <a href=" {{ .url }}"><img src="{{ .logo }}" style="width:{{ .width }}px; padding: 10px;"></img></a>
           {{ end }}
+        {{ end }}
+        <h3>Conference Sponsors:</h3>
+        {{ range sort .Site.Params.sponsors }}
+          {{ if ne .level "host" }}
+            <a href=" {{ .url }}"><img src="{{ .logo }}" style="width:{{ .width }}px; padding: 10px;"></img></a>
+          {{ end }}
+        {{ end }}
       {{ end }}
     </div>
 

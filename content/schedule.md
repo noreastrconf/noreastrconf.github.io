@@ -12,7 +12,7 @@ title: "Schedule"
 |9:55am-10:15am|Something else Shiny|Jasmine Dumas, Fastly|
 |10:15am-10:50am|BREAK||
 |10:50am-11:10am|TBD|Bob Rudis, Rapid7|
-|11:15am-11:35pm|TBD|Simon Urbanek, R Core Team and AT&T Labs|
+|11:15am-11:35pm|RCloud 2.0|Simon Urbanek, R Core Team and AT&T Labs|
 |11:35pm-1:30pm|LUNCH||
 |1:30pm-1:50pm|Increasing adoption of R for SAS Users in the Health Field|Monika Wahi, Dethwench Professional Services|
 |1:55pm-2:15pm|Exposed in Connecticut|Mike Kane, Yale University|

@@ -5,22 +5,22 @@ date: "2017-07-24"
 
 ### Sponsorship Opportunities
 
-1. Bronze ($500) 🥉
+1. Bronze ($250) 🥉
     1. Logo on website
     2. Twitter mentions (prior to conference) & Recognition in roundup email to attendees 
-2. Silver ($1000) 🥈
+2. Silver ($500) 🥈
     1. Logo on website
     2. Twitter mentions (prior & during conference) & Recognition in roundup email to attendees 
     3. Logo on programs & additional sponsor promotional signage during conference (provided by sponsor)
     4. Two Complimentary Tickets
-3. Gold ($2000) 🥇
+3. Gold ($1000) 🥇
     1. Logo on website
     2. Twitter mentions (prior & during conference) & Recognition in roundup email to attendees 
     3. Logo on programs & additional sponsor promotional signage during conference (provided by sponsor)
     4. Logo on name tags/badge
     5. Exclusive Coffee/tea break sponsor & 10 min. speaking opportunity
     6. Two Complimentary Tickets
-4. Platinum ($4000) 💎
+4. Platinum ($2000) 💎
     1. Logo on website
     2. Twitter mention (prior & during conference) & Recognition in roundup email to attendees 
     3. Logo on programs & additional sponsor promotional signage during conference (provided by sponsor)

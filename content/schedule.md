@@ -11,7 +11,7 @@ title: "Schedule"
 |9:30am-9:50am|Using Shiny|Tanya Cashorali, TCB Analytics|
 |9:55am-10:15am|Something else Shiny|Jasmine Dumas, Fastly|
 |10:15am-10:50am|BREAK||
-|10:50am-11:10am|TBD|Bob Rudis, Rapid7|
+|10:50am-11:10am|TBD|TBD|
 |11:15am-11:35pm|RCloud 2.0|Simon Urbanek, R Core Team and AT&T Labs|
 |11:35pm-1:30pm|LUNCH||
 |1:30pm-1:50pm|Increasing adoption of R for SAS Users in the Health Field|Monika Wahi, Dethwench Professional Services|

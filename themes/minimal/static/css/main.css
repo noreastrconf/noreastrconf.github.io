@@ -25,12 +25,12 @@ main {
 /*home page*/
 
 .intro {
-    margin: 12vh 0;
+    margin: 10vh 0;
 }
 
 .intro > h1 {
     color: #212121;
-    font-size: 12vh;
+    font-size: 10vh;
 }
 
 .intro > h2 {

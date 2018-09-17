@@ -77,18 +77,26 @@ backgroundImage = "https://github.com/noreastrconf/noreastrconf.github.io/blob/m
     
     [[params.sponsors]]
         name = "Microsoft Azure"
-        logo = "/MS-Azure_logo_horiz_c-gray_rgb.png"
+        logo = "/MS-Azure_logo_horiz_c-gray_rgb_cropped.png"
         url = "https://developer.microsoft.com/en-us/advocates/index.html"
         twitter = "azureadvocates"
-        level = "silver"
-        width = 225
+        level = "gold"
+        width = 205
+        
+    [[params.sponsors]]
+        name = "RStudio"
+        logo = "/RStudio-Logo-Blue-Gray.jpg"
+        url = "https://www.rstudio.com/"
+        twitter = "rstudio"
+        level = "gold"
+        width = 140
         
     [[params.sponsors]]
         name = "Manning Publications"
         logo = "/Manninglogo_outline.png"
         url = "https://www.manning.com/"
         twitter = "ManningBooks"
-        level = ""
+        level = "bronze"
         width = 150
     
     [[params.sponsors]]
@@ -97,7 +105,7 @@ backgroundImage = "https://github.com/noreastrconf/noreastrconf.github.io/blob/m
         url = "https://ci.uri.edu"
         twitter = "uri_coastalinst"
         level = "host"
-        width = 115
+        width = 105
     
 
     

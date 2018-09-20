@@ -11,8 +11,9 @@ title: "Schedule"
 |9:30am-9:50am|Using Shiny|Tanya Cashorali, TCB Analytics|
 |9:55am-10:15am|Something else Shiny|Jasmine Dumas, Fastly|
 |10:15am-10:50am|BREAK||
-|10:50am-11:10am|TBD|TBD|
-|11:15am-11:35pm|RCloud 2.0|Simon Urbanek, R Core Team and AT&T Labs|
+|10:50am-11:10am|Minecraft, R, and Containers|David Smith, Microsoft|
+|11:15am-11:35pm|TBD|Kaelen Medeiros, DataCamp|
+|11:15am-11:35pm|Yelp: Analyzing Restaurant Reviews with R|Richie Cotton, DataCamp|
 |11:35pm-1:30pm|LUNCH||
 |1:30pm-1:50pm|Increasing adoption of R for SAS Users in the Health Field|Monika Wahi, Dethwench Professional Services|
 |1:55pm-2:15pm|Exposed in Connecticut|Mike Kane, Yale University|
@@ -20,7 +21,6 @@ title: "Schedule"
 |2:40pm-3:10pm|BREAK||
 |3:10pm-3:30pm|Building an A/B Testing System|Emily Robinson, DataCamp|
 |3:35pm-3:55pm|Things I Learned About Corporate Reporting|JD Long, RenaissanceRe|
-|4:00pm-4:20pm|Minecraft, R, and Containers|David Smith, Microsoft|
-|4:25pm-4:45pm|How I Found your Answer|Mara Averick, RStudio|
-|4:50pm-5:00pm|Closing Remarks|Nor'eastR Committee|
-|5:30pm-7:30pm|Social||
+|4:00pm-4:20pm|How I Found your Answer|Mara Averick, RStudio|
+|4:25pm-4:45pm|Closing Remarks|Nor'eastR Committee|
+|5:00pm-7:00pm|Social||

@@ -13,8 +13,8 @@ title: "Schedule"
 |10:15am-10:50am|BREAK||
 |10:50am-11:10am|Minecraft, R, and Containers|David Smith, Microsoft|
 |11:15am-11:35pm|TBD|Kaelen Medeiros, DataCamp|
-|11:15am-11:35pm|Yelp: Analyzing Restaurant Reviews with R|Richie Cotton, DataCamp|
-|11:35pm-1:30pm|LUNCH||
+|11:40am-12:00pm|Yelp: Analyzing Restaurant Reviews with R|Richie Cotton, DataCamp|
+|12:00pm-1:30pm|LUNCH||
 |1:30pm-1:50pm|Increasing adoption of R for SAS Users in the Health Field|Monika Wahi, Dethwench Professional Services|
 |1:55pm-2:15pm|Exposed in Connecticut|Mike Kane, Yale University|
 |2:20pm-2:40pm|Bioconductor for non-biologists|Lori Shepherd,  Bioconductor Core Team and Roswell Park Cancer Institute|

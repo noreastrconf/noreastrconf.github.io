@@ -23,4 +23,4 @@ title: "Schedule"
 |3:35pm-3:55pm|Things I Learned About Corporate Reporting|JD Long, RenaissanceRe|
 |4:00pm-4:20pm|How I Found your Answer|Mara Averick, RStudio|
 |4:25pm-4:45pm|Closing Remarks|Nor'eastR Committee|
-|5:00pm-7:00pm|Social||
+|5:00pm-7:00pm|Social|[The Malted Barley](https://themaltedbarley.com/providence/)|

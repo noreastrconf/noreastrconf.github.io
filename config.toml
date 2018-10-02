@@ -33,11 +33,11 @@ backgroundImage = "https://github.com/noreastrconf/noreastrconf.github.io/blob/m
     url = "/sponsors/"
     weight = 5
 [[menu.main]]
-    name = "Venue"
+    name = "Venue and Travel Info"
     url = "/venue/"
     weight = 6
 [[menu.main]]
-    name = "Registration (Live!)"
+    name = "Registration"
     url = "https://www.regonline.com/noreastr"
     weight = 7
 

@@ -8,7 +8,7 @@ title: "Schedule"
 |:---|:---|:---|
 |8:00am-9:10am|Registration||
 |9:15am-9:25am|Welcome|Nor'eastR Committee|
-|9:30am-9:50am|Using Shiny|Tanya Cashorali, TCB Analytics|
+|9:30am-9:50am|TBD|TBD|
 |9:55am-10:15am|Something else Shiny|Jasmine Dumas, Fastly|
 |10:15am-10:50am|BREAK||
 |10:50am-11:10am|Minecraft, R, and Containers|David Smith, Microsoft|

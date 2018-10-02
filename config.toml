@@ -97,7 +97,7 @@ backgroundImage = "https://github.com/noreastrconf/noreastrconf.github.io/blob/m
         url = "https://www.datacamp.com/"
         twitter = "datacamp"
         level = "silver"
-        width = 140
+        width = 200
         
     [[params.sponsors]]
         name = "Manning Publications"

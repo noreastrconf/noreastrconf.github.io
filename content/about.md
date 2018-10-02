@@ -30,7 +30,7 @@ The [University of Rhode Island's Coastal Institute](https://ci.uri.edu) is the 
 - Hao Zhu
 
 ### Nor'eastR Team Alums 
-- Bob Rudis
-- Noam Ross
 - Amelia McNamara
 - David Miller
+- Bob Rudis
+- Noam Ross

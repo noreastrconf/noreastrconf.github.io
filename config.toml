@@ -92,6 +92,14 @@ backgroundImage = "https://github.com/noreastrconf/noreastrconf.github.io/blob/m
         width = 140
         
     [[params.sponsors]]
+        name = "DataCamp"
+        logo = "/datacamp_logo.png"
+        url = "https://www.datacamp.com/"
+        twitter = "datacamp"
+        level = "silver"
+        width = 140
+        
+    [[params.sponsors]]
         name = "Manning Publications"
         logo = "/Manninglogo_outline.png"
         url = "https://www.manning.com/"

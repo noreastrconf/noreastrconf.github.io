@@ -3,7 +3,7 @@ title: "Venue and Travel Info"
 date: "2017-07-24"
 ---
 
-Our venue for the Nor'EastR Conference is [Paff Auditorium](https://web.uri.edu/ceps/campusresources/facilityrental/) at the Univeristy of Rhode Island's Providence Campus.  Located at 80 Washington Street, Providence, RI 02903, it is conveniently located in downtown Providence near many restaraunts, hotels, and a short 10 minute walk from the Providence Train Station.   
+Our venue for the Nor'EastR Conference is [Paff Auditorium](https://web.uri.edu/ceps/campusresources/facilityrental/) at the University of Rhode Island's Providence Campus.  Located at 80 Washington Street, Providence, RI 02903, it is conveniently located in downtown Providence near many restaurants, hotels, and a short 10 minute walk from the Providence Train Station.   
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1BiRsKQtztRpcN7UuIzYDnyTBrjWvLaX0&hl=en" width="480" height="480"></iframe>
 

@@ -9,3 +9,28 @@ date: "2017-07-24"
 
 Born on Twitter, the Nor'eastR Conference is a grass roots effort to organize a 
 regional #rstats conference in the Northeastern United States.
+
+### Conference Host
+
+The [University of Rhode Island's Coastal Institute](https://ci.uri.edu) is the primary host for the Nor'eastR Conference.  Particular thanks go to:
+
+- Amber Neville
+- Judith Swift
+
+### Conference Organizing Team
+
+- Richie Cotton
+- Garrett Dancik
+- Jasmine Dumas
+- Marianna Foos
+- Douglas Friedman
+- Jeff Hollister
+
+### Logo Design
+- Hao Zhu
+
+### Nor'eastR Team Alums 
+- Bob Rudis
+- Noam Ross
+- Amelia McNamara
+- David Miller

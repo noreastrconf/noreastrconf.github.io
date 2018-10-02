@@ -43,15 +43,11 @@ Talk slides and presentations fall under the code of conduct. Talk slides should
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the Nor'eastR Conference organizing team.
 
 - Richie Cotton
+- Garrett Dancik
 - Jasmine Dumas
-- Jeff Hollister
-- Noam Ross
-- Bob Rudis
-- Hao Zhu
 - Marianna Foos
 - Douglas Friedman
-- Garrett Dancik
-
+- Jeff Hollister
 
 #### General Contact: info@noreastrconf.com
 

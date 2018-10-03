@@ -97,7 +97,15 @@ backgroundImage = "https://github.com/noreastrconf/noreastrconf.github.io/blob/m
         url = "https://www.datacamp.com/"
         twitter = "datacamp"
         level = "silver"
-        width = 200
+        width = 180
+        
+    [[params.sponsors]]
+        name = "TCB Analytics"
+        logo = "/TCB_Logo_Long.png"
+        url = "http://tcbanalytics.com/"
+        twitter = "tcbanalytics"
+        level = "bronze"
+        width = 180
         
     [[params.sponsors]]
         name = "Manning Publications"

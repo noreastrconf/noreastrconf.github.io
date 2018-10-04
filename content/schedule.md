@@ -9,7 +9,7 @@ title: "Schedule"
 |8:00am-9:10am|Registration||
 |9:15am-9:25am|Welcome|Nor'eastR Committee|
 |9:30am-9:50am|TBD|TBD|
-|9:55am-10:15am|Something else Shiny|Jasmine Dumas, Fastly|
+|9:55am-10:15am|Extending Shiny by Enhancing User Experience with shinyLP|Jasmine Dumas, Fastly|
 |10:15am-10:50am|BREAK||
 |10:50am-11:10am|Minecraft, R, and Containers|David Smith, Microsoft|
 |11:15am-11:35pm|TBD|Kaelen Medeiros, DataCamp|

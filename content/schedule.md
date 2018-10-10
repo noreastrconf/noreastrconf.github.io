@@ -4,8 +4,8 @@ title: "Schedule"
 
 *note:* This schedule is subject to change as we work out the details
 
-|Time|Title|Speaker|Tweet It|
-|:---|:---|:---|:---|
+|Time|Title|Speaker|Tweet|
+|:--|:--|:--|:--|
 |8:00am-9:10am|Registration|||
 |9:15am-9:25am|Welcome|Nor'eastR Committee||
 |9:30am-9:50am|TBD|TBD||

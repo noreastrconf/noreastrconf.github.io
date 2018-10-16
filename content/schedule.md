@@ -6,15 +6,17 @@ title: "Schedule"
 
 |Time|Title|Speaker|Tweet|
 |:--|:--|:--|:--|
-|8:00am-9:10am|Registration|||
-|9:15am-9:25am|Welcome|Nor'eastR Committee||
+|8:00am-9:00am|Registration|||
+|9:00am-9:05am|URI Coastal Institute Welcome|Judith Swith, URI Coastal Institute|<a href="https://twitter.com/intent/tweet?ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-text="&quot;URI Coastal Institute Welcome&quot; from @uri_coastalinst and @JMacSwift at #noreastr18 #rstats" data-show-count="false"></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>|
+|9:10am-9:25am|Welcome|Nor'eastR Committee||
 |9:30am-9:50am|TBD|TBD||
 |9:55am-10:15am|Extending Shiny by Enhancing User Experience with shinyLP|Jasmine Dumas, Fastly|<a href="https://twitter.com/intent/tweet?ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-text="&quot;Extending Shiny by Enhancing User Experience with shinyLP&quot; from @jasdumas at #noreastr18 #rstats" data-show-count="false"></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>|
 |10:15am-10:50am|BREAK|||
 |10:50am-11:10am|Minecraft, R, and Containers|David Smith, Microsoft|<a href="https://twitter.com/intent/tweet?ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-text="&quot;Minecraft, R, and Containers&quot; from @revodavid at #noreastr18 #rstats" data-show-count="false"></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>|
 |11:15am-11:35pm|Modularizing Your Shiny App|Kaelen Medeiros, DataCamp|<a href="https://twitter.com/intent/tweet?ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-text="&quot;Modularizing Your Shiny App&quot; from @kaelen_medeiros at #noreastr18 #rstats" data-show-count="false"></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>|
 |11:40am-12:00pm|Yelp: Analyzing Restaurant Reviews with R|Richie Cotton, DataCamp|<a href="https://twitter.com/intent/tweet?ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-text="&quot;Yelp: Analyzing Restaurant Reviews with R&quot; from @richierocks at #noreastr18 #rstats" data-show-count="false"></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>|
-|12:00pm-1:30pm|LUNCH|||
+|12:00pm-1:15pm|LUNCH|||
+|1:15pm-1:25pm|Welcome Back|Nor'eastR Committee||
 |1:30pm-1:50pm|Increasing adoption of R for SAS Users in the Health Field|Monika Wahi, Dethwench Professional Services|<a href="https://twitter.com/intent/tweet?ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-text="&quot;Increasing adoption of R for SAS Users in the Health Field&quot; from @DethWench at #noreastr18 #rstats" data-show-count="false"></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>|
 |1:55pm-2:15pm|Exposed in Connecticut|Mike Kane, Yale University|<a href="https://twitter.com/intent/tweet?ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-text="&quot;Exposed in Connecticut&quot; from @kaneplusplus  at #noreastr18 #rstats" data-show-count="false"></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>|
 |2:20pm-2:40pm|Bioconductor for non-biologists|Lori Shepherd,  Bioconductor Core Team and Roswell Park Cancer Institute|<a href="https://twitter.com/intent/tweet?ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-text="&quot;Bioconductor for non-biologists&quot; from @lshep712 at #noreastr18 #rstats" data-show-count="false"></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>|

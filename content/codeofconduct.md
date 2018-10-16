@@ -52,6 +52,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 - Marianna Foos <marianna.foos at gmail.com>
 - Douglas Friedman <dfriedm4 at its.jnj.com>
 - Jeff Hollister <jeff.w.hollister at gmail.com>
+- Amber Neville <amneville at uri.edu>
 
 Alternatively, you may go to the registration desk on the day of the conference and a member of the planning committee or a conference volunteer will be there to assist you.
 

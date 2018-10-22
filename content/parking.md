@@ -1,5 +1,5 @@
 ---
-title: "Parking"
+title: "Parking and Walking Directions"
 date: "2018-10-22"
 ---
 

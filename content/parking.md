@@ -13,6 +13,6 @@ The campus is a short walk from the parking garage, however, there is a free shu
   - Destination will be on the right
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/noreastrconf/hex_logo/master/parking.png" style="width: 40%; height: 40%;">
+  <img src="https://github.com/noreastrconf/noreastrconf.github.io/raw/master/content/parking.png" style="width: 40%; height: 40%;">
 </p>
 

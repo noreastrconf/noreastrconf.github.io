@@ -46,13 +46,13 @@ If you are planning to attend an upcoming event, and have concerns regarding ano
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the Nor'eastR Conference organizing team.
 
-- Richie Cotton <richie at datacamp.com>
-- Garrett Dancik <garrett.dancik at gmail.com>
-- Jasmine Dumas <jasmine.dumas at gmail.com>
-- Marianna Foos <marianna.foos at gmail.com>
-- Douglas Friedman <dfriedm4 at its.jnj.com>
-- Jeff Hollister <jeff.w.hollister at gmail.com>
-- Amber Neville <amneville at uri.edu>
+- Richie Cotton (email: richie at datacamp.com )
+- Garrett Dancik (email: garrett.dancik at gmail.com )
+- Jasmine Dumas (email: jasmine.dumas at gmail.com )
+- Marianna Foos (email: marianna.foos at gmail.com )
+- Douglas Friedman (email: dfriedm4 at its.jnj.com )
+- Jeff Hollister (email: jeff.w.hollister at gmail.com )
+- Amber Neville (email: amneville at uri.edu )
 
 Alternatively, you may go to the registration desk on the day of the conference and a member of the planning committee or a conference volunteer will be there to assist you.
 
